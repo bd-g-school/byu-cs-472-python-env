@@ -1,6 +1,8 @@
 ## Overview
 
-This is a repo to set up a docker image to run a python environment with scikit-learn installed for machine learning development.
+This is a repo to set up a docker image to run a python environment with scikit-learn installed for machine learning development. 
+
+Disclaimer: I am running on a Linux machine, and the file paths may need to be slightly adjusted if you are running on Windows or Mac. Feel free to reach out if you need help setting things up!
 
 ## Steps to use this environment
 
